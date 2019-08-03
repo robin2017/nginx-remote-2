@@ -1,2 +1,3 @@
-wget http://geolite.maxmind.com/download/geoip/datebase/GeoLiteCountry/GeoIP.dat.gz
-wget http://geolite.maxmind.com/download/geoip/datebase/GeoLiteCity.dat.gz
+wget https://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz
+
+
